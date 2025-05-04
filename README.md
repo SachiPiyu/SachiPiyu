@@ -4,7 +4,12 @@
 
 📊 **Actuarial Data Expert** | 2+ Years in Financial Modeling & Business Intelligence
 
-[![](https://visitcount.itsvg.in/api?id=SachiPiyu&icon=0&color=0)](https://visitcount.itsvg.in)
+</br>
+<p align="center">
+  <a href="https://github.com/LahiruChanak">
+    <img src="https://komarev.com/ghpvc/?username=SachiPiyu&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views">
+  </a>
+</p>
 
 ## 🌐 Socials
 
@@ -76,5 +81,3 @@ Specializing in:
 ## ✍️ Dev Philosophy
 
 ## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-_Open to collaborations in actuarial tech and research partnerships!_
