@@ -8,10 +8,10 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/a)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sachini-kodikarage-5532b81a5)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kodikaragesachini@gmail.com)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/)
 
 ---
 
@@ -58,15 +58,13 @@ Specializing in:
 
 ## 🔥 Recent Projects
 
-1. **Insurance Claim Predictor** - ML model reducing forecast error by 18%
-2. **Capital Modeling Dashboard** - Interactive Solvency II visualization tool
-3. **Academic Research** - Numerical methods for high-dimensional PDEs in finance
+[![Latest Repo](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SachiPiyu/repos?sort=updated&per_page=3&query=$..name&label=Latest%20Repos&color=blue&logo=github)](https://github.com/SachiPiyu?tab=repositories)
 
 ---
 
 ## 🎓 Academic Focus
 
-- **Thesis**: [Brief Thesis Title - e.g., "Deep Learning Approaches for Claims Forecasting"]
+- **Bachelor Thesis**: SEIR model for COVID 19 Dynamics in Sri Lanka
 - **Key Coursework**:  
   ▸ Advanced Stochastic Processes  
   ▸ Numerical Linear Algebra  
